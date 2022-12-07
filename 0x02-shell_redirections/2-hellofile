@@ -1,2 +1,2 @@
 #!/bin/bash
-gfhfjk
+cat /etc/passwd
